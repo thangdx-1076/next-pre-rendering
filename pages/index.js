@@ -11,6 +11,14 @@ function Home() {
       <Link href='/posts'>
         <a>Posts</a>
       </Link>
+      <br></br>
+      <Link href='/products'>
+        <a>products</a>
+      </Link>
+      <br></br>
+      <Link href='/news'>
+        <a>news</a>
+      </Link>
     </>
   )
 }
